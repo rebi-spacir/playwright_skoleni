@@ -1,0 +1,24 @@
+{
+  "name": "playwright_skoleni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebi-spacir/playwright_skoleni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rebi-spacir/playwright_skoleni/issues"
+  },
+  "homepage": "https://github.com/rebi-spacir/playwright_skoleni#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
